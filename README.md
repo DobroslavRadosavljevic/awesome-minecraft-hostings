@@ -35,7 +35,7 @@ This collection is curated by the author, the open source community, and with th
 Managed Minecraft server hosting with one-click setup, modpack installers, and game-specific control panels. These providers handle the technical setup for you.
 
 | Provider | Starting Price | RAM | Features | Link |
-|----------|---------------|-----|----------|------|
+| -------- | ------------- | --- | -------- | ---- |
 | ![Apex Hosting](https://img.shields.io/badge/Apex_Hosting-E63946?logoColor=white) **Apex Hosting** | $5.99/month | 2GB | 24/7 support, instant setup, modpack support, Bedrock | [Visit](https://apexminecrafthosting.com/) |
 | ![Aternos](https://img.shields.io/badge/Aternos-4CAF50?logoColor=white) **Aternos** | Free | Varies | Free hosting, ad-supported, queue system, Bedrock, RAM varies by version | [Visit](https://aternos.org/) |
 | ![AlienHost](https://img.shields.io/badge/AlienHost-00FF00?logoColor=white) **AlienHost** | $2.99/month | 1GB | Budget-friendly, modpack support, DDoS protection | [Visit](https://alienhost.net/) |
@@ -128,7 +128,7 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 Virtual Private Servers and dedicated servers where you install and manage Minecraft yourself. Offers more control and flexibility, but requires technical knowledge.
 
 | Provider | Starting Price | Type | Features | Link |
-|----------|---------------|------|----------|------|
+| -------- | ------------- | ---- | -------- | ---- |
 | ![A2 Hosting](https://img.shields.io/badge/A2_Hosting-0066CC?logoColor=white) **A2 Hosting** | $5/month | VPS | VPS hosting, turbo servers | [Visit](https://www.a2hosting.com/) |
 | ![AccuWeb Hosting](https://img.shields.io/badge/AccuWeb-0066CC?logoColor=white) **AccuWeb Hosting** | $4.99/month | VPS | VPS hosting, global locations, 24/7 support | [Visit](https://www.accuwebhosting.com/) |
 | ![Bluehost](https://img.shields.io/badge/Bluehost-0066CC?logoColor=white) **Bluehost** | $6.99/month | VPS | Web hosting provider, VPS options | [Visit](https://www.bluehost.com/) |
@@ -174,7 +174,7 @@ Virtual Private Servers and dedicated servers where you install and manage Minec
 Server management panels for self-hosted Minecraft servers.
 
 | Software | License | Features | Link |
-|----------|---------|----------|------|
+| -------- | ------- | -------- | ---- |
 | ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-0E4DA4?logoColor=white) **Pterodactyl** | MIT | Modern panel, Docker-based, multi-server | [GitHub](https://github.com/pterodactyl/panel) |
 | ![Pelican](https://img.shields.io/badge/Pelican-3498DB?logoColor=white) **Pelican** | AGPL-3.0 | Pterodactyl fork, enhanced features | [GitHub](https://github.com/pelican-dev/panel) |
 | ![Crafty Controller](https://img.shields.io/badge/Crafty-FF8C00?logoColor=white) **Crafty Controller** | GPL-3.0 | Python-based, easy setup | [GitLab](https://gitlab.com/crafty-controller/crafty-4) |
@@ -191,7 +191,7 @@ Server management panels for self-hosted Minecraft servers.
 DDoS protection services for Minecraft servers.
 
 | Provider | Features | Starting Price | Link |
-|----------|----------|---------------|------|
+| -------- | -------- | ------------- | ---- |
 | ![TCPShield](https://img.shields.io/badge/TCPShield-2C3E50?logoColor=white) **TCPShield** | Free tier, Minecraft-specific, proxy | Free / $25+ | [Visit](https://tcpshield.com/) |
 | ![Cosmic Guard](https://img.shields.io/badge/Cosmic_Guard-6C5CE7?logoColor=white) **Cosmic Guard** | MC-optimized, low latency | $5/month | [Visit](https://cosmicguard.com/) |
 | ![Path.net](https://img.shields.io/badge/Path.net-00D4AA?logoColor=white) **Path.net** | Enterprise DDoS protection | Custom pricing | [Visit](https://path.net/) |
@@ -202,7 +202,7 @@ DDoS protection services for Minecraft servers.
 Domain registration and DNS services.
 
 | Provider | Features | Starting Price | Link |
-|----------|----------|---------------|------|
+| -------- | -------- | ------------- | ---- |
 | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white) **Cloudflare** | Free DNS, DDoS protection, at-cost domains | Free / at-cost | [Visit](https://cloudflare.com/) |
 | ![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?logo=namecheap&logoColor=white) **Namecheap** | Affordable domains, free DNS | $8/year | [Visit](https://namecheap.com/) |
 | ![Porkbun](https://img.shields.io/badge/Porkbun-F472B6?logoColor=white) **Porkbun** | Cheap domains, free WHOIS privacy | $5/year | [Visit](https://porkbun.com/) |
@@ -212,7 +212,7 @@ Domain registration and DNS services.
 Backup solutions for Minecraft server data.
 
 | Provider | Features | Starting Price | Link |
-|----------|----------|---------------|------|
+| -------- | -------- | ------------- | ---- |
 | ![Backblaze B2](https://img.shields.io/badge/Backblaze_B2-E21E29?logo=backblaze&logoColor=white) **Backblaze B2** | S3-compatible, cheap storage | $0.006/GB | [Visit](https://backblaze.com/b2/) |
 | ![Wasabi](https://img.shields.io/badge/Wasabi-00C389?logoColor=white) **Wasabi** | No egress fees, S3-compatible | $6.99/TB | [Visit](https://wasabi.com/) |
 | ![rclone](https://img.shields.io/badge/rclone-3498DB?logoColor=white) **rclone** | Free, supports many backends | Free | [Visit](https://rclone.org/) |
@@ -224,7 +224,7 @@ Backup solutions for Minecraft server data.
 Popular Minecraft server software and forks.
 
 | Software | Type | Features | Link |
-|----------|------|----------|------|
+| -------- | ---- | -------- | ---- |
 | ![Paper](https://img.shields.io/badge/Paper-1E88E5?logoColor=white) **Paper** | Spigot Fork | Performance optimizations, Bukkit plugins | [Visit](https://papermc.io/) |
 | ![Purpur](https://img.shields.io/badge/Purpur-9C27B0?logoColor=white) **Purpur** | Paper Fork | Extra configuration options | [Visit](https://purpurmc.org/) |
 | ![Pufferfish](https://img.shields.io/badge/Pufferfish-FF9800?logoColor=white) **Pufferfish** | Paper Fork | Extreme performance | [Visit](https://pufferfish.host/) |
@@ -241,7 +241,7 @@ Popular Minecraft server software and forks.
 Helpful resources for Minecraft server administrators.
 
 | Resource | Description | Link |
-|----------|-------------|------|
+| -------- | ----------- | ---- |
 | **Minecraft Server List** | Compare and list your server | [minecraft-server-list.com](https://minecraft-server-list.com/) |
 | **Spark Profiler** | Performance profiling plugin | [spark.lucko.me](https://spark.lucko.me/) |
 | **Timings v2** | Aikar's timing reports | [timings.aikar.co](https://timings.aikar.co/) |
@@ -277,7 +277,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. Please rea
 
 ## Author
 
-**Dobroslav Radosavljevic**
+Dobroslav Radosavljevic
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://dobroslav.io/github)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://dobroslav.io/x)
