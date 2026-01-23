@@ -36,7 +36,7 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 
 | Provider | Starting Price | Features | Link |
 | -------- | ------------- | -------- | ---- |
-| ![Apex Hosting](https://img.shields.io/badge/Apex_Hosting-E63946?logoColor=white) **Apex Hosting** | $5.99/month | 24/7 support, instant setup, modpack support, Bedrock | [Visit](https://apexminecrafthosting.com/) |
+| ![Apex Hosting](https://img.shields.io/badge/Apex_Hosting-E63946?logoColor=white) **Apex Hosting** | $5.99/month | 24/7 support, instant setup, modpack support, Bedrock | [Visit](https://dobroslav.io/apexhosting) |
 | ![Aternos](https://img.shields.io/badge/Aternos-4CAF50?logoColor=white) **Aternos** | Free | Free hosting, ad-supported, queue system, Bedrock | [Visit](https://aternos.org/) |
 | ![AlienHost](https://img.shields.io/badge/AlienHost-00FF00?logoColor=white) **AlienHost** | $2.99/month | Budget-friendly, modpack support, DDoS protection | [Visit](https://alienhost.net/) |
 | ![AxentHost](https://img.shields.io/badge/AxentHost-00A8FF?logoColor=white) **AxentHost** | Free | Free hosting, multiple games supported | [Visit](https://axenthost.com/) |
@@ -47,7 +47,7 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 | ![CreeperCastle](https://img.shields.io/badge/CreeperCastle-9B59B6?logoColor=white) **CreeperCastle** | ₹67/month | India-based, DDoS protection, 24/7 support | [Visit](https://creepercastle.cloud/) |
 | ![CreeperCloud](https://img.shields.io/badge/CreeperCloud-7289DA?logoColor=white) **CreeperCloud** | Lifetime | One-time payment, lifetime hosting, premium hardware | [Visit](https://creepercloud.io/) |
 | ![CreeperHost](https://img.shields.io/badge/CreeperHost-57A64A?logoColor=white) **CreeperHost** | £2.49/month | Official FTB partner, modpack hosting | [Visit](https://creeper.host/) |
-| ![Cybrancee](https://img.shields.io/badge/Cybrancee-FF6B35?logoColor=white) **Cybrancee** | $1.99/month | Unlimited slots, 24/7 support, mod support | [Visit](https://cybrancee.com/) |
+| ![Cybrancee](https://img.shields.io/badge/Cybrancee-FF6B35?logoColor=white) **Cybrancee** | $1.99/month | Unlimited slots, 24/7 support, mod support | [Visit](https://dobroslav.io/cybrancee) |
 | ![DatHost](https://img.shields.io/badge/DatHost-00D4AA?logoColor=white) **DatHost** | €12.90/month | All-inclusive, unlimited slots, human support | [Visit](https://dathost.net/) |
 | ![Elevated Servers](https://img.shields.io/badge/Elevated_Servers-8B5CF6?logoColor=white) **Elevated Servers** | $8/month | Premium hardware, 7-day refund, unlimited slots | [Visit](https://elevatedservers.com/) |
 | ![ElixirNode](https://img.shields.io/badge/ElixirNode-00D4AA?logoColor=white) **ElixirNode** | $0.85/month | Budget-friendly, DDoS protection, dedicated support | [Visit](https://elixirnode.com/) |
@@ -56,7 +56,7 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 | ![EnviroMC](https://img.shields.io/badge/EnviroMC-4CAF50?logoColor=white) **EnviroMC** | $2.50/month | Carbon-neutral hosting, game & VPS options | [Visit](https://enviromc.host/) |
 | ![Eternal Hosting](https://img.shields.io/badge/Eternal_Hosting-FFD700?logoColor=white) **Eternal Hosting** | $2/month | Affordable, 4.9 Trustpilot rating, budget-friendly | [Visit](https://eternalhosting.cloud/) |
 | ![Exaroton](https://img.shields.io/badge/Exaroton-FF6B35?logoColor=white) **Exaroton** | Pay-as-you-go | Pay only when server runs, by Aternos team | [Visit](https://exaroton.com/) |
-| ![FalixNodes](https://img.shields.io/badge/FalixNodes-7289DA?logoColor=white) **FalixNodes** | Free | Free hosting, DDoS protection, modpack support | [Visit](https://falixnodes.net/) |
+| ![FalixNodes](https://img.shields.io/badge/FalixNodes-7289DA?logoColor=white) **FalixNodes** | Free | Free hosting, DDoS protection, modpack support | [Visit](https://dobroslav.io/falixnodes) |
 | ![FlexyNode](https://img.shields.io/badge/FlexyNode-00D4AA?logoColor=white) **FlexyNode** | €2.49/month | Ryzen 9 5950X, NVMe Gen4, network-ready, one-click modpacks | [Visit](https://www.flexynode.com/) |
 | ![FreeMcServer](https://img.shields.io/badge/FreeMcServer-32CD32?logoColor=white) **FreeMcServer** | Free | Daily runtime limit, 20 slots | [Visit](https://freemcserver.net/) |
 | ![Freezehost](https://img.shields.io/badge/Freezehost-00BFFF?logoColor=white) **Freezehost** | Free / Paid | Free and paid options, game hosting | [Visit](https://freezehost.com/) |
@@ -83,7 +83,7 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 | ![Mcserverhost](https://img.shields.io/badge/Mcserverhost-00A86B?logoColor=white) **Mcserverhost** | Free | Free Minecraft hosting | [Visit](https://mcserverhost.com/) |
 | ![MelonCube](https://img.shields.io/badge/MelonCube-FFA500?logoColor=white) **MelonCube** | $3/month | Enterprise hardware, 100% uptime claim, affordable | [Visit](https://www.meloncube.net/) |
 | ![Minecraft Realms](https://img.shields.io/badge/Minecraft_Realms-00D4AA?logoColor=white) **Minecraft Realms** | $7.99/month | Official Mojang hosting, easy setup | [Visit](https://www.minecraft.net/realms) |
-| ![Minefort](https://img.shields.io/badge/Minefort-00C7B7?logoColor=white) **Minefort** | Free | 24/7 uptime, zero queue, unlimited slots | [Visit](https://minefort.com/) |
+| ![Minefort](https://img.shields.io/badge/Minefort-00C7B7?logoColor=white) **Minefort** | Free | 24/7 uptime, zero queue, unlimited slots | [Visit](https://dobroslav.io/minefort) |
 | ![Minehut](https://img.shields.io/badge/Minehut-00C7B7?logoColor=white) **Minehut** | Free | Limited plugins, shared IP, 10 slots free, 4-hour daily limit | [Visit](https://minehut.com/) |
 | ![Minekeep](https://img.shields.io/badge/Minekeep-7289DA?logoColor=white) **Minekeep** | Free / Paid | Free and paid options available | [Visit](https://minekeep.com/) |
 | ![MintServers](https://img.shields.io/badge/MintServers-FF6B35?logoColor=white) **MintServers** | $9.99/month | Unlimited RAM hosting, 4.8 Trustpilot rating | [Visit](https://mintservers.com/) |
@@ -105,14 +105,14 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 | ![PowerupStack](https://img.shields.io/badge/PowerupStack-00A8FF?logoColor=white) **PowerupStack** | Free | 100% free, no playtime limit, daily backups | [Visit](https://www.powerupstack.com/) |
 | ![Revive Hosting](https://img.shields.io/badge/Revive_Hosting-4CAF50?logoColor=white) **Revive Hosting** | $4.99/month | Fast hardware, lag-free, all versions supported | [Visit](https://revivehosting.com/) |
 | ![RocketNode](https://img.shields.io/badge/RocketNode-FF4500?logoColor=white) **RocketNode** | $3.25/month | Fast support, instant deployment, 4.5 Trustpilot | [Visit](https://rocketnode.com/) |
-| ![ScalaCube](https://img.shields.io/badge/ScalaCube-FF6B35?logoColor=white) **ScalaCube** | Free / $3/month | Free tier available, instant setup, 1000+ modpacks | [Visit](https://scalacube.com/) |
+| ![ScalaCube](https://img.shields.io/badge/ScalaCube-FF6B35?logoColor=white) **ScalaCube** | Free / $3/month | Free tier available, instant setup, 1000+ modpacks | [Visit](https://dobroslav.io/scalacube) |
 | ![SeekaHost](https://img.shields.io/badge/SeekaHost-00BFFF?logoColor=white) **SeekaHost** | £2.50/month | UK-based, affordable, good support | [Visit](https://www.seekahost.co/) |
 | ![Server.pro](https://img.shields.io/badge/Server.pro-00BFFF?logoColor=white) **Server.pro** | Free / $2.50 | Free tier available, easy setup | [Visit](https://server.pro/) |
 | ![ServerMiner](https://img.shields.io/badge/ServerMiner-FF4500?logoColor=white) **ServerMiner** | Pay-as-you-go | Pay-as-you-go, instant setup, unlimited world size | [Visit](https://serverminer.com/) |
 | ![Shockbyte](https://img.shields.io/badge/Shockbyte-FF5722?logoColor=white) **Shockbyte** | $2.50/month | 100% uptime SLA, automatic backups, Bedrock | [Visit](https://shockbyte.com/) |
 | ![SimpleGameHosting](https://img.shields.io/badge/SimpleGameHosting-00BFFF?logoColor=white) **SimpleGameHosting** | $7.49/month | Simple setup, expert support, 4.6 Trustpilot | [Visit](https://simplegamehosting.com/) |
 | ![Skynode](https://img.shields.io/badge/Skynode-00D4AA?logoColor=white) **Skynode** | $1/month | Free subdomain, DDoS protection | [Visit](https://skynode.pro/) |
-| ![Sparked Host](https://img.shields.io/badge/Sparked_Host-FF4500?logoColor=white) **Sparked Host** | $1/month | Ryzen 9 CPUs, NVMe SSDs | [Visit](https://sparkedhost.com/) |
+| ![Sparked Host](https://img.shields.io/badge/Sparked_Host-FF4500?logoColor=white) **Sparked Host** | $1/month | Ryzen 9 CPUs, NVMe SSDs | [Visit](https://dobroslav.io/sparkedhost) |
 | ![Squidservers](https://img.shields.io/badge/Squidservers-00C7B7?logoColor=white) **Squidservers** | Free | Free hosting, easy setup | [Visit](https://squidservers.com/) |
 | ![TheMinecraftHosting](https://img.shields.io/badge/TheMinecraftHosting-FF6B35?logoColor=white) **TheMinecraftHosting** | $3/month | Minecraft-focused, established provider | [Visit](https://theminecrafthosting.com/) |
 | ![Tickhosting](https://img.shields.io/badge/Tickhosting-FF6B35?logoColor=white) **Tickhosting** | Free / Paid | Free and paid hosting options | [Visit](https://tickhosting.com/) |
@@ -138,7 +138,7 @@ Virtual Private Servers and dedicated servers where you install and manage Minec
 | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white) **DigitalOcean** | $4/month | 512MB | Developer-friendly, reliable, global locations | [Visit](https://digitalocean.com/) |
 | ![DreamHost](https://img.shields.io/badge/DreamHost-FF6B35?logoColor=white) **DreamHost** | $5/month | VPS | VPS hosting, developer-friendly | [Visit](https://www.dreamhost.com/) |
 | ![GreenGeeks](https://img.shields.io/badge/GreenGeeks-4CAF50?logoColor=white) **GreenGeeks** | $5/month | VPS | Eco-friendly VPS hosting | [Visit](https://www.greengeeks.com/) |
-| ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?logo=hetzner&logoColor=white) **Hetzner** | €3.79/month | 4GB | Great value, dedicated options, EU/US | [Visit](https://hetzner.com/) |
+| ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?logo=hetzner&logoColor=white) **Hetzner** | €3.79/month | 4GB | Great value, dedicated options, EU/US | [Visit](https://dobroslav.io/hetzner) |
 | ![HostEurope](https://img.shields.io/badge/HostEurope-0066CC?logoColor=white) **HostEurope** | €3/month | VPS | European VPS hosting | [Visit](https://www.hosteurope.de/) |
 | ![HostGator](https://img.shields.io/badge/HostGator-00A86B?logoColor=white) **HostGator** | $4.95/month | VPS | VPS hosting, established provider | [Visit](https://www.hostgator.com/) |
 | ![HostHatch](https://img.shields.io/badge/HostHatch-00D4AA?logoColor=white) **HostHatch** | $4/month | VPS | VPS hosting, NVMe storage | [Visit](https://hosthatch.com/) |
@@ -273,7 +273,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. Please rea
 - Include relevant technology badges
 - Keep entries alphabetical within each section
 - Check your spelling and grammar
-- Do not add affiliate links
+- Only maintainers may add affiliate links
 
 ## Author
 
@@ -292,4 +292,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Disclaimer**: This list is maintained by the community. Prices, features, and availability may change at any time. Always verify current information on the provider's website before making a purchase. This list does not contain affiliate links.
+**Disclaimer**: This list is maintained by the community. Prices, features, and availability may change at any time. Always verify current information on the provider's website before making a purchase. Some links may be affiliate links that help support this project at no extra cost to you.
