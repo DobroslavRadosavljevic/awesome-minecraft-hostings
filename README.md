@@ -285,24 +285,57 @@ Helpful resources for Minecraft server administrators.
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. Please read the [contributing guidelines](CONTRIBUTING.md) first.
+External contributors are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the full guidelines.
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-hosting-provider`)
-3. Commit your changes (`git commit -m 'Add some amazing hosting provider'`)
-4. Push to the branch (`git push origin feature/amazing-hosting-provider`)
-5. Open a Pull Request
+### External Contributor Workflow
 
-### Guidelines
+1. Fork this repository on GitHub.
+2. Clone your fork and move into the project.
 
-- Only add hosting providers that are currently active and accepting customers
-- Ensure the provider has clear pricing and features listed
-- Include accurate starting prices (verify on provider's website)
-- Add a brief description and key features
-- Include relevant technology badges
-- Keep entries alphabetical within each section
-- Check your spelling and grammar
-- Only maintainers may add affiliate links
+```bash
+git clone https://github.com/<your-username>/awesome-minecraft-hostings.git
+cd awesome-minecraft-hostings
+```
+
+3. Add the original repository as `upstream` and create a branch from the latest `main`.
+
+```bash
+git remote add upstream https://github.com/dobroslavradosavljevic/awesome-minecraft-hostings.git
+git fetch upstream
+git checkout -b add/<provider-name> upstream/main
+```
+
+4. Make focused changes (usually in `README.md`) and keep entries alphabetical in their section.
+5. Commit and push to your fork.
+
+```bash
+git add README.md
+git commit -m "Add <ProviderName> hosting entry"
+git push -u origin add/<provider-name>
+```
+
+6. Open a Pull Request from your fork branch into this repo's `main` branch.
+7. Respond to review feedback and update your PR branch as needed.
+
+### Pull Request Checklist
+
+- Provider is active and currently accepting customers.
+- Link points to the official provider page (not a review/aggregator page).
+- Starting price includes a clear currency and is verified from the provider website.
+- Features are concise, accurate, and useful.
+- Entry is alphabetically placed within its section.
+- No duplicate provider entries are introduced.
+- Added links are reachable.
+- No affiliate links are added (maintainers only).
+
+### Reporting Problems
+
+If a provider is down, rebranded, moved, or has outdated pricing/features, open an issue with:
+
+- Provider name
+- What is incorrect
+- Correct source URL
+- Suggested fix
 
 ## Author
 
