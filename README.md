@@ -117,6 +117,7 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 | ![Shockbyte](https://img.shields.io/badge/Shockbyte-FF5722?logoColor=white) **Shockbyte** | $2.50/month | 100% uptime SLA, automatic backups, Bedrock | [Visit](https://shockbyte.com/) |
 | ![SimpleGameHosting](https://img.shields.io/badge/SimpleGameHosting-00BFFF?logoColor=white) **SimpleGameHosting** | $7.49/month | Simple setup, expert support, 4.6 Trustpilot | [Visit](https://simplegamehosting.com/) |
 | ![Skynode](https://img.shields.io/badge/Skynode-00D4AA?logoColor=white) **Skynode** | $1/month | Free subdomain, DDoS protection | [Visit](https://skynode.pro/) |
+| ![SNT Gaming](https://img.shields.io/badge/SNT_Gaming-46D65A?logoColor=white) **SNT Gaming** | €30/month | Family-focused private servers, parent-controlled whitelist, Java + Bedrock crossplay, custom game modes, 20 languages | [Visit](https://shohamtopaz.com/minecraft-server-for-kids) |
 | ![Sparked Host](https://img.shields.io/badge/Sparked_Host-FF4500?logoColor=white) **Sparked Host** | $1/month | Ryzen 9 CPUs, NVMe SSDs | [Visit](https://dobroslav.io/sparkedhost) |
 | ![Squidservers](https://img.shields.io/badge/Squidservers-00C7B7?logoColor=white) **Squidservers** | Free | Free hosting, easy setup | [Visit](https://squidservers.com/) |
 | ![TheMinecraftHosting](https://img.shields.io/badge/TheMinecraftHosting-FF6B35?logoColor=white) **TheMinecraftHosting** | $3/month | Minecraft-focused, established provider | [Visit](https://theminecrafthosting.com/) |
