@@ -116,6 +116,7 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 | ![ServerMiner](https://img.shields.io/badge/ServerMiner-FF4500?logoColor=white) **ServerMiner** | Pay-as-you-go | Pay-as-you-go, instant setup, unlimited world size | [Visit](https://serverminer.com/) |
 | ![Shockbyte](https://img.shields.io/badge/Shockbyte-FF5722?logoColor=white) **Shockbyte** | $2.50/month | 100% uptime SLA, automatic backups, Bedrock | [Visit](https://shockbyte.com/) |
 | ![SimpleGameHosting](https://img.shields.io/badge/SimpleGameHosting-00BFFF?logoColor=white) **SimpleGameHosting** | $7.49/month | Simple setup, expert support, 4.6 Trustpilot | [Visit](https://simplegamehosting.com/) |
+| ![SodiumNodes](https://img.shields.io/badge/SodiumNodes-1CFF00?logoColor=white) **SodiumNodes** | ~€1/month | DDoS protection, 24h refund guarantee, Instant Setup | [Visit](https://skynode.pro/) |
 | ![Skynode](https://img.shields.io/badge/Skynode-00D4AA?logoColor=white) **Skynode** | $1/month | Free subdomain, DDoS protection | [Visit](https://skynode.pro/) |
 | ![Sparked Host](https://img.shields.io/badge/Sparked_Host-FF4500?logoColor=white) **Sparked Host** | $1/month | Ryzen 9 CPUs, NVMe SSDs | [Visit](https://dobroslav.io/sparkedhost) |
 | ![Squidservers](https://img.shields.io/badge/Squidservers-00C7B7?logoColor=white) **Squidservers** | Free | Free hosting, easy setup | [Visit](https://squidservers.com/) |
