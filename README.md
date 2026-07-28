@@ -173,6 +173,7 @@ Virtual Private Servers and dedicated servers where you install and manage Minec
 | ![HostHatch](https://img.shields.io/badge/HostHatch-00D4AA?logoColor=white) **HostHatch** | $4/month | VPS | VPS hosting, NVMe storage | [Visit](https://hosthatch.com/) |
 | ![HostUS](https://img.shields.io/badge/HostUS-0066CC?logoColor=white) **HostUS** | $5/month | VPS | VPS hosting, global locations | [Visit](https://hostus.us/) |
 | ![InMotion Hosting](https://img.shields.io/badge/InMotion-0066CC?logoColor=white) **InMotion Hosting** | $7/month | VPS | 20+ years experience, NVMe SSD, 99.9% uptime | [Visit](https://www.inmotionhosting.com/) |
+| ![Interserver](https://img.shields.io/badge/InterServer-0072BC?logoColor=white) **Interserver** | $3/month | VPS | US VPS hosting, Dedicated Servers | [Visit](https://www.interserver.net/vps/) |
 | ![IONOS](https://img.shields.io/badge/IONOS-FF6B00?logoColor=white) **IONOS** | €1/month | VPS | European VPS hosting, promotional pricing | [Visit](https://www.ionos.com/) |
 | ![Kamatera](https://img.shields.io/badge/Kamatera-FF6B35?logoColor=white) **Kamatera** | $4/month | VPS | Cloud VPS, flexible pricing | [Visit](https://www.kamatera.com/) |
 | ![Linode](https://img.shields.io/badge/Linode-00A95C?logo=linode&logoColor=white) **Linode** | $5/month | VPS | Stable, good support, global locations | [Visit](https://linode.com/) |
