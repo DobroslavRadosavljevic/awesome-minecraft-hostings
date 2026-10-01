@@ -44,6 +44,7 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 | ![BisectHosting](https://img.shields.io/badge/BisectHosting-00A86B?logoColor=white) **BisectHosting** | $2.99/month | One-click modpack install, 1000+ modpacks, 24/7 support | [Visit](https://bisecthosting.com/) |
 | ![Bloom.host](https://img.shields.io/badge/Bloom.host-FF69B4?logoColor=white) **Bloom.host** | $10/month | Split servers, Pterodactyl, Ryzen 9, performance mods | [Visit](https://bloom.host/) |
 | ![CloudNord](https://img.shields.io/badge/CloudNord-00A8FF?logoColor=white) **CloudNord** | $2.78/month | Asia-optimized, NVMe SSD, DDoS protection | [Visit](https://cloudnord.net/) |
+| ![Cobbly](https://img.shields.io/badge/Cobbly-16A34A?logoColor=white) **Cobbly** | Free | Free hosting, 3GB RAM, sleeps when empty and wakes on join, own subdomain, CurseForge modpacks | [Visit](https://cobbly.net/) |
 | ![Cosmic Host](https://img.shields.io/badge/Cosmic_Host-9B59B6?logoColor=white) **Cosmic Host** | $6/month | Ryzen 9 9950X, NVMe Gen5, DDoS protection | [Visit](https://cosmic-host.com/) |
 | ![CreeperCastle](https://img.shields.io/badge/CreeperCastle-9B59B6?logoColor=white) **CreeperCastle** | ₹67/month | India-based, DDoS protection, 24/7 support | [Visit](https://creepercastle.cloud/) |
 | ![CreeperCloud](https://img.shields.io/badge/CreeperCloud-7289DA?logoColor=white) **CreeperCloud** | Lifetime | One-time payment, lifetime hosting, premium hardware | [Visit](https://creepercloud.io/) |
@@ -118,6 +119,7 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 | ![SimpleGameHosting](https://img.shields.io/badge/SimpleGameHosting-00BFFF?logoColor=white) **SimpleGameHosting** | $7.49/month | Simple setup, expert support, 4.6 Trustpilot | [Visit](https://simplegamehosting.com/) |
 | ![Skynode](https://img.shields.io/badge/Skynode-00D4AA?logoColor=white) **Skynode** | $1/month | Free subdomain, DDoS protection | [Visit](https://skynode.pro/) |
 | ![Sparked Host](https://img.shields.io/badge/Sparked_Host-FF4500?logoColor=white) **Sparked Host** | $1/month | Ryzen 9 CPUs, NVMe SSDs | [Visit](https://dobroslav.io/sparkedhost) |
+| ![Spawnly](https://img.shields.io/badge/Spawnly-2563EB?logoColor=white) **Spawnly** | €6.49/month | Monthly or hourly billing, 1-click modpacks, DDoS protection, Java & Bedrock | [Visit](https://spawnly.net/) |
 | ![Squidservers](https://img.shields.io/badge/Squidservers-00C7B7?logoColor=white) **Squidservers** | Free | Free hosting, easy setup | [Visit](https://squidservers.com/) |
 | ![TheMinecraftHosting](https://img.shields.io/badge/TheMinecraftHosting-FF6B35?logoColor=white) **TheMinecraftHosting** | $3/month | Minecraft-focused, established provider | [Visit](https://theminecrafthosting.com/) |
 | ![Tickhosting](https://img.shields.io/badge/Tickhosting-FF6B35?logoColor=white) **Tickhosting** | Free / Paid | Free and paid hosting options | [Visit](https://tickhosting.com/) |
