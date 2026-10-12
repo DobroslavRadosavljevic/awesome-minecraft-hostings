@@ -58,6 +58,7 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 | ![Eternal Hosting](https://img.shields.io/badge/Eternal_Hosting-FFD700?logoColor=white) **Eternal Hosting** | $2/month | Affordable, 4.9 Trustpilot rating, budget-friendly | [Visit](https://eternalhosting.cloud/) |
 | ![Exaroton](https://img.shields.io/badge/Exaroton-FF6B35?logoColor=white) **Exaroton** | Pay-as-you-go | Pay only when server runs, by Aternos team | [Visit](https://exaroton.com/) |
 | ![ExtraVM](https://img.shields.io/badge/ExtraVM-2563EB?logoColor=white) **ExtraVM** | $3/GB | Containerized servers, one-click modpacks, free subdomain | [Visit](https://extravm.com/minecraft.php) |
+| ![FadeHost](https://img.shields.io/badge/FadeHost-38BDF8?logoColor=white) **FadeHost** | Free / $2/month | Free 2 GB server that sleeps when empty, $1 per GB always-on, one-click modpacks, free subdomain, 7-day trial without a card | [Visit](https://fadehost.com/games/minecraft-java/) |
 | ![FalixNodes](https://img.shields.io/badge/FalixNodes-7289DA?logoColor=white) **FalixNodes** | Free | Free hosting, DDoS protection, modpack support | [Visit](https://dobroslav.io/falixnodes) |
 | ![FlexyNode](https://img.shields.io/badge/FlexyNode-00D4AA?logoColor=white) **FlexyNode** | €2.49/month | Ryzen 9 5950X, NVMe Gen4, network-ready, one-click modpacks | [Visit](https://www.flexynode.com/) |
 | ![FreeMcServer](https://img.shields.io/badge/FreeMcServer-32CD32?logoColor=white) **FreeMcServer** | Free | Daily runtime limit, 20 slots | [Visit](https://freemcserver.net/) |
