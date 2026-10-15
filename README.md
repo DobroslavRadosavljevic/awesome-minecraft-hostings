@@ -125,6 +125,7 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 | ![Vex Hosting](https://img.shields.io/badge/Vex_Hosting-FF1493?logoColor=white) **Vex Hosting** | $3.99/month | Cross-platform, popular 4GB plan | [Visit](https://vexhosting.com/) |
 | ![WaffleHost](https://img.shields.io/badge/WaffleHost-F59E0B?logoColor=white) **WaffleHost** | $3.99/month | Auto-scaling plans, NVMe storage, CosmicGuard DDoS protection | [Visit](https://waffle.host/pricing/minecraft) |
 | ![WiseHosting](https://img.shields.io/badge/WiseHosting-00A86B?logoColor=white) **WiseHosting** | $5.99/month | Value hosting, competitive prices, Minecraft-exclusive | [Visit](https://wisehosting.com/) |
+| ![Wishblock](https://img.shields.io/badge/Wishblock-5CE1FF?logoColor=white) **Wishblock** | Free | Java Edition, own subdomain, sleeps when empty, AI-written plugins from plain words | [Visit](https://www.wishblock.net/) |
 | ![WitherHosting](https://img.shields.io/badge/WitherHosting-9B59B6?logoColor=white) **WitherHosting** | $1/month | Truly cheap, enterprise hardware, Gen5 NVMe | [Visit](https://witherhosting.com/) |
 | ![BerryByte](https://img.shields.io/badge/BerryByte-8B5CF6?logoColor=white) **BerryByte** | Varies | One-click modpacks, Java/Bedrock support, backups | [Visit](https://berrybyte.net/minecraft-server-hosting) |
 | ![CheeseHosting](https://img.shields.io/badge/CheeseHosting-F59E0B?logoColor=white) **CheeseHosting** | €3.50/month | Unlimited storage, Java/Bedrock support, daily backups | [Visit](https://www.cheesehosting.net/minecraft-servers) |
