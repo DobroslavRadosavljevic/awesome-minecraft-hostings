@@ -43,6 +43,7 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 | ![Akliz](https://img.shields.io/badge/Akliz-1F2937?logoColor=white) **Akliz** | $5/GB | Modded-first hosting, one-click installs, multi-server plans | [Visit](https://www.akliz.net/games/minecraft) |
 | ![BisectHosting](https://img.shields.io/badge/BisectHosting-00A86B?logoColor=white) **BisectHosting** | $2.99/month | One-click modpack install, 1000+ modpacks, 24/7 support | [Visit](https://bisecthosting.com/) |
 | ![Bloom.host](https://img.shields.io/badge/Bloom.host-FF69B4?logoColor=white) **Bloom.host** | $10/month | Split servers, Pterodactyl, Ryzen 9, performance mods | [Visit](https://bloom.host/) |
+| ![Chunkly](https://img.shields.io/badge/Chunkly-2E7D32?logoColor=white) **Chunkly** | €3.40/month (4GB) | Europe-based, €0.85/GB, Java and Bedrock, NVMe, 40 Gbps DDoS protection, modpack support | [Visit](https://chunkly.net/) |
 | ![CloudNord](https://img.shields.io/badge/CloudNord-00A8FF?logoColor=white) **CloudNord** | $2.78/month | Asia-optimized, NVMe SSD, DDoS protection | [Visit](https://cloudnord.net/) |
 | ![Cosmic Host](https://img.shields.io/badge/Cosmic_Host-9B59B6?logoColor=white) **Cosmic Host** | $6/month | Ryzen 9 9950X, NVMe Gen5, DDoS protection | [Visit](https://cosmic-host.com/) |
 | ![CreeperCastle](https://img.shields.io/badge/CreeperCastle-9B59B6?logoColor=white) **CreeperCastle** | ₹67/month | India-based, DDoS protection, 24/7 support | [Visit](https://creepercastle.cloud/) |
