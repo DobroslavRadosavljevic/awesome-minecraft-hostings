@@ -81,6 +81,7 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 | ![LayerStack](https://img.shields.io/badge/LayerStack-0066CC?logoColor=white) **LayerStack** | $5/month | Java & Bedrock, 24/7 support, premium hardware | [Visit](https://www.layerstack.com/) |
 | ![Lilypad](https://img.shields.io/badge/Lilypad-4CAF50?logoColor=white) **Lilypad** | $4/month | 24/7 hosting, modpack installer, off-site backups | [Visit](https://lilypad.gg/) |
 | ![LogicServers](https://img.shields.io/badge/LogicServers-8B5CF6?logoColor=white) **LogicServers** | $5.88/month | UK-based, premium hardware, 4.7 Trustpilot rating | [Visit](https://logicservers.com/) |
+| ![Loon](https://img.shields.io/badge/Loon-2784FF?logoColor=white) **Loon** | C$8.99/month | Fast, reliable & Canadian-based game hosting | [Visit](https://loon.host) |
 | ![Magmanode](https://img.shields.io/badge/Magmanode-FF6B00?logoColor=white) **Magmanode** | Free | Free hosting, simple interface | [Visit](https://magmanode.com/) |
 | ![MamboServer](https://img.shields.io/badge/MamboServer-FF6B35?logoColor=white) **MamboServer** | $5/month | Gaming-focused, multiple game support | [Visit](https://www.mamboserver.com/) |
 | ![MCProHosting](https://img.shields.io/badge/MCProHosting-1E90FF?logoColor=white) **MCProHosting** | $3/month | Largest MC host, plugin/mod support, Bedrock | [Visit](https://mcprohosting.com/) |
