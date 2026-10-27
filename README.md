@@ -101,6 +101,7 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 | ![Nodecraft](https://img.shields.io/badge/Nodecraft-8B5CF6?logoColor=white) **Nodecraft** | $9.98/month | Premium hardware, NodePanel, heavy modpacks, 24/7 servers | [Visit](https://nodecraft.com/) |
 | ![OCNetworks](https://img.shields.io/badge/OCNetworks-1D4ED8?logoColor=white) **OCNetworks** | £5.99/month | UK-focused hosting, instant setup, mod/plugin support | [Visit](https://www.ocnetworks.co.uk/minecraft) |
 | ![Oraxen](https://img.shields.io/badge/Oraxen-00D4AA?logoColor=white) **Oraxen** | $4/month | Performance-focused, value-oriented | [Visit](https://oraxen.com/) |
+| ![OuiHeberg](https://img.shields.io/badge/OuiHeberg-0055FF?logoColor=white) **OuiHeberg** | €1.99/month | 4 GB RAM, Paper/Forge/NeoForge, one-click CurseForge modpacks, DDoS protection, FR/DE/US/CA locations | [Visit](https://www.ouiheberg.com/en/minecraft-hosting) |
 | ![PebbleHost](https://img.shields.io/badge/PebbleHost-7289DA?logoColor=white) **PebbleHost** | $1/month | Budget tier, good for small servers | [Visit](https://pebblehost.com/) |
 | ![Physgun](https://img.shields.io/badge/Physgun-9B59B6?logoColor=white) **Physgun** | $12/month | High-performance Ryzen, performance-focused | [Visit](https://physgun.com/) |
 | ![PiglinHost](https://img.shields.io/badge/PiglinHost-FF1493?logoColor=white) **PiglinHost** | $4/month | One price, no hidden fees, cross-platform | [Visit](https://piglinhost.com/) |
