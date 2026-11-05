@@ -58,6 +58,7 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 | ![Empower Servers](https://img.shields.io/badge/Empower_Servers-FF4500?logoColor=white) **Empower Servers** | $3.99/month | Premium servers, worldwide locations, personalized support | [Visit](https://empowerservers.com/) |
 | ![Endercloud](https://img.shields.io/badge/Endercloud-4CAF50?logoColor=white) **Endercloud** | ₹99/month | India/Singapore/Germany/US locations, NVMe SSD | [Visit](https://endercloud.in/) |
 | ![EnviroMC](https://img.shields.io/badge/EnviroMC-4CAF50?logoColor=white) **EnviroMC** | $2.50/month | Carbon-neutral hosting, game & VPS options | [Visit](https://enviromc.host/) |
+| ![ESN Hosting](https://img.shields.io/badge/ESN_Hosting-6C5CE7?logoColor=white) **ESN Hosting** | $0.99/month (1GB) | Pterodactyl panel, Paper/Fabric/Forge/NeoForge, Java + Bedrock via Geyser, monthly or yearly billing | [Visit](https://esnoffical.com/) |
 | ![Eternal Hosting](https://img.shields.io/badge/Eternal_Hosting-FFD700?logoColor=white) **Eternal Hosting** | $2/month | Affordable, 4.9 Trustpilot rating, budget-friendly | [Visit](https://eternalhosting.cloud/) |
 | ![Exaroton](https://img.shields.io/badge/Exaroton-FF6B35?logoColor=white) **Exaroton** | Pay-as-you-go | Pay only when server runs, by Aternos team | [Visit](https://exaroton.com/) |
 | ![ExtraVM](https://img.shields.io/badge/ExtraVM-2563EB?logoColor=white) **ExtraVM** | $3/GB | Containerized servers, one-click modpacks, free subdomain | [Visit](https://extravm.com/minecraft.php) |
