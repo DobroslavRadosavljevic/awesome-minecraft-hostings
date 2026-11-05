@@ -120,6 +120,7 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 | ![SeekaHost](https://img.shields.io/badge/SeekaHost-00BFFF?logoColor=white) **SeekaHost** | £2.50/month | UK-based, affordable, good support | [Visit](https://www.seekahost.co/) |
 | ![Server.pro](https://img.shields.io/badge/Server.pro-00BFFF?logoColor=white) **Server.pro** | Free / $2.50 | Free tier available, easy setup | [Visit](https://server.pro/) |
 | ![ServerMiner](https://img.shields.io/badge/ServerMiner-FF4500?logoColor=white) **ServerMiner** | Pay-as-you-go | Pay-as-you-go, instant setup, unlimited world size | [Visit](https://serverminer.com/) |
+| ![ServerSpark](https://img.shields.io/badge/ServerSpark-3B9BFF?logoColor=white) **ServerSpark** | €0.99/month | Paid quarterly (€1.09 monthly), EU servers (Finland, Germany), Java + Bedrock, free 24h trial, nightly off-site backups | [Visit](https://serverspark.nl/minecraft-server-hosting/) |
 | ![Shockbyte](https://img.shields.io/badge/Shockbyte-FF5722?logoColor=white) **Shockbyte** | $2.50/month | 100% uptime SLA, automatic backups, Bedrock | [Visit](https://shockbyte.com/) |
 | ![SimpleGameHosting](https://img.shields.io/badge/SimpleGameHosting-00BFFF?logoColor=white) **SimpleGameHosting** | $7.49/month | Simple setup, expert support, 4.6 Trustpilot | [Visit](https://simplegamehosting.com/) |
 | ![SodiumNodes](https://img.shields.io/badge/SodiumNodes-1CFF00?logoColor=white) **SodiumNodes** | €2.39/month | DDoS protection, 24h refund guarantee, Instant Setup | [Visit](https://www.sodiumnodes.org/) |
