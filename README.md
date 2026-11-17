@@ -97,6 +97,7 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 | ![Minekeep](https://img.shields.io/badge/Minekeep-7289DA?logoColor=white) **Minekeep** | Free / Paid | Free and paid options available | [Visit](https://minekeep.com/) |
 | ![MintServers](https://img.shields.io/badge/MintServers-FF6B35?logoColor=white) **MintServers** | $9.99/month | Unlimited RAM hosting, 4.8 Trustpilot rating | [Visit](https://mintservers.com/) |
 | ![Modrinth](https://img.shields.io/badge/Modrinth-00D4AA?logoColor=white) **Modrinth** | $5/month | Modern mod repository, premium hosting | [Visit](https://modrinth.com/) |
+| ![NapNodes](https://img.shields.io/badge/NapNodes-5B4AE8?logoColor=white) **NapNodes** | Free / €6/month | EU, dedicated RAM (no overselling), free 3 GB server with no card, one-click Modrinth & CurseForge modpacks | [Visit](https://napnodes.com/en/games/minecraft) |
 | ![Nexus Hosting](https://img.shields.io/badge/Nexus_Hosting-8B5CF6?logoColor=white) **Nexus Hosting** | $4/month | AMD Ryzen, Path.net DDoS protection, one-click modpacks | [Visit](https://nexushosting.io/) |
 | ![Nitrado](https://img.shields.io/badge/Nitrado-00A86B?logoColor=white) **Nitrado** | €4.99/month | European provider, multiple games, established service | [Visit](https://server.nitrado.net/) |
 | ![Nitrous Networks](https://img.shields.io/badge/Nitrous_Networks-9B59B6?logoColor=white) **Nitrous Networks** | $5/month | Game server hosting, multiple games supported | [Visit](https://nitrous-networks.com/) |
