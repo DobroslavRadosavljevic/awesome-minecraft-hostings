@@ -282,6 +282,8 @@ Helpful resources for Minecraft server administrators.
 | -------- | ----------- | ---- |
 | **Minecraft Server List** | Compare and list your server | [minecraft-server-list.com](https://minecraft-server-list.com/) |
 | **SpawnList** | Daily-randomized server directory — fair exposure without vote-based ranking; Votifier supported | [spawnlist.net](https://spawnlist.net/) |
+| **MCHostingHub** | Compare Minecraft hosts on price, RAM, locations and modpack/Bedrock support; free RAM calculator | [mchostinghub.com](https://mchostinghub.com/) |
+| **MinecraftServersList** | Free vote-ranked server list with a monthly reset; NuVotifier support and a free Votifier tester | [minecraftservers-list.com](https://minecraftservers-list.com/) |
 | **Spark Profiler** | Performance profiling plugin | [spark.lucko.me](https://spark.lucko.me/) |
 | **Timings v2** | Aikar's timing reports | [timings.aikar.co](https://timings.aikar.co/) |
 | **Aikar's Flags** | Optimized JVM startup flags | [flags.sh](https://flags.sh/) |
