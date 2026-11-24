@@ -114,6 +114,7 @@ Managed Minecraft server hosting with one-click setup, modpack installers, and g
 | ![PloudOS](https://img.shields.io/badge/PloudOS-FF6B6B?logoColor=white) **PloudOS** | Free | Queue system, limited uptime, 30 slots | [Visit](https://ploudos.com/) |
 | ![PloxHost](https://img.shields.io/badge/PloxHost-5865F2?logoColor=white) **PloxHost** | $1/month | Budget-friendly, NVMe storage | [Visit](https://ploxhost.com/) |
 | ![PowerupStack](https://img.shields.io/badge/PowerupStack-00A8FF?logoColor=white) **PowerupStack** | Free | 100% free, no playtime limit, daily backups | [Visit](https://www.powerupstack.com/) |
+| ![PrimeHost](https://img.shields.io/badge/PrimeHost-116AF9?logoColor=white) **PrimeHost** | 32 DKK/month (2 GB) | Danish support, prices in DKK, NVMe, EU servers (Germany), 1-click modpacks and plugins, automatic backups, Java and Bedrock (GeyserMC) | [Visit](https://www.primehost.dk/minecraft-servers) |
 | ![Revive Hosting](https://img.shields.io/badge/Revive_Hosting-4CAF50?logoColor=white) **Revive Hosting** | $4.99/month | Fast hardware, lag-free, all versions supported | [Visit](https://revivehosting.com/) |
 | ![RocketNode](https://img.shields.io/badge/RocketNode-FF4500?logoColor=white) **RocketNode** | $3.25/month | Fast support, instant deployment, 4.5 Trustpilot | [Visit](https://rocketnode.com/) |
 | ![ScalaCube](https://img.shields.io/badge/ScalaCube-FF6B35?logoColor=white) **ScalaCube** | Free / $3/month | Free tier available, instant setup, 1000+ modpacks | [Visit](https://dobroslav.io/scalacube) |
